@@ -1,10 +1,10 @@
-# Contribute to Example project
+# How to contribute to MyProject
 
 ## Prerequisite:
 
 * ...
 
-## Building Example project from source
+## How to build MyProject from source
 
 Lorem ipsum dolor sit amet, posuere vestibulum tempor lectus sed dictum integer, lobortis ipsum nunc et dui aliquam elementum, justo wisi est ac donec. Porttitor tellus, tincidunt porttitor est aliquet, donec libero suspendisse hendrerit.
 
