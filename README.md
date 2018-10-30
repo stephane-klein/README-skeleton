@@ -22,7 +22,6 @@ One line project overview.
 * Explain why use your project instead alternative projects.
 
 
-
 ## Quick demo
 
 Lorem ipsum dolor sit amet, posuere vestibulum tempor lectus sed dictum integer, lobortis ipsum nunc et dui aliquam elementum, justo wisi est ac donec. Porttitor tellus, tincidunt porttitor est aliquet, donec libero suspendisse hendrerit.
@@ -55,7 +54,7 @@ $ make start
 
 ## Go further
 
-* [Building Example project from source](CONTRIBUTE.md#building-example-project-from-source)
+* [How to build MyProject from source](CONTRIBUTE.md#how-to-build-myproject-from-source)
 * [How to execute tests](CONTRIBUTE.md#how-to-execute-tests)
 * [Project directories structure overview](CONTRIBUTE.md#project-directories-structure-overview)
 
