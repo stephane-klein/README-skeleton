@@ -6,12 +6,13 @@ One line project overview.
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**
 
-- [Rationalize](#rationalize)
-- [Quick demo](#quick-demo)
-  - [Prerequisite](#prerequisite)
-  - [Running demo](#running-demo)
-- [Go further](#go-further)
-- [Contacts](#contacts)
+- [MyProject](#myproject)
+  - [Rationalize](#rationalize)
+  - [Quick demo](#quick-demo)
+    - [Prerequisite](#prerequisite)
+    - [Running demo](#running-demo)
+  - [Go further](#go-further)
+  - [Contacts](#contacts)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -54,6 +55,7 @@ $ make start
 
 ## Go further
 
+* [Continuous Deployment](continuous-deployment.md)
 * [How to build MyProject from source](CONTRIBUTE.md#how-to-build-myproject-from-source)
 * [How to execute tests](CONTRIBUTE.md#how-to-execute-tests)
 * [Project directories structure overview](CONTRIBUTE.md#project-directories-structure-overview)
