@@ -19,8 +19,8 @@ One line project overview.
 
 ## Rationalize
 
-* Explain why do you have created this project.
-* Explain why use your project instead alternative projects.
+- Explain why do you have created this project.
+- Explain why use your project instead alternative projects.
 
 
 ## Quick demo
@@ -32,10 +32,10 @@ Lorem ipsum dolor sit amet, posuere vestibulum tempor lectus sed dictum integer,
 
 Lorem ipsum dolor sit amet, posuere vestibulum tempor lectus sed dictum integer, lobortis ipsum nunc et dui aliquam elementum, justo wisi est ac donec.
 
-* [Docker Engine](https://docs.docker.com/engine/) (version `18.06.1-ce`)
-* [Docker Compose](https://docs.docker.com/compose/) (version `1.22.0`)
-* [Virtualbox](https://www.virtualbox.org/) (version `5.2.18r124319`)
-* [Vagrant](https://www.vagrantup.com/) (version `2.1.5`)
+- [Docker Engine](https://docs.docker.com/engine/) (version `18.06.1-ce`)
+- [Docker Compose](https://docs.docker.com/compose/) (version `1.22.0`)
+- [Virtualbox](https://www.virtualbox.org/) (version `5.2.18r124319`)
+- [Vagrant](https://www.vagrantup.com/) (version `2.1.5`)
 
 On *macOS* you can install prerequisites with [Brew](https://brew.sh/index_fr):
 
@@ -55,10 +55,10 @@ $ make start
 
 ## Go further
 
-* [Continuous Deployment](continuous-deployment.md)
-* [How to build MyProject from source](CONTRIBUTE.md#how-to-build-myproject-from-source)
-* [How to execute tests](CONTRIBUTE.md#how-to-execute-tests)
-* [Project directories structure overview](CONTRIBUTE.md#project-directories-structure-overview)
+- [Continuous Deployment](continuous-deployment.md)
+- [How to build MyProject from source](CONTRIBUTE.md#how-to-build-myproject-from-source)
+- [How to execute tests](CONTRIBUTE.md#how-to-execute-tests)
+- [Project directories structure overview](CONTRIBUTE.md#project-directories-structure-overview)
 
 
 ## Contacts
