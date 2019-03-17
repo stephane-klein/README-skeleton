@@ -9,7 +9,7 @@ One line project overview.
 - [MyProject](#myproject)
   - [Rationalize](#rationalize)
   - [Quick demo](#quick-demo)
-    - [Prerequisite](#prerequisite)
+    - [Prerequisites](#prerequisites)
     - [Running demo](#running-demo)
   - [Go further](#go-further)
   - [Contacts](#contacts)
