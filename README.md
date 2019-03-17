@@ -56,9 +56,9 @@ $ make start
 ## Go further
 
 - [Continuous Deployment](continuous-deployment.md)
-- [How to build MyProject from source](CONTRIBUTE.md#how-to-build-myproject-from-source)
-- [How to execute tests](CONTRIBUTE.md#how-to-execute-tests)
-- [Project directories structure overview](CONTRIBUTE.md#project-directories-structure-overview)
+- [How to build MyProject from source](CONTRIBUTING.md#how-to-build-myproject-from-source)
+- [How to execute tests](CONTRIBUTING.md#how-to-execute-tests)
+- [Project directories structure overview](CONTRIBUTING.md#project-directories-structure-overview)
 
 
 ## Contacts

@@ -1,4 +1,4 @@
-# How to contribute to MyProject
+# How to contributing to MyProject
 
 ## Prerequisite:
 
