@@ -7,6 +7,7 @@ One line project overview.
 **Table of Contents**
 
 - [MyProject](#myproject)
+  - [Goals and objectives](#goals-and-objectives)
   - [Rationalize](#rationalize)
   - [Quick demo](#quick-demo)
     - [Prerequisites](#prerequisites)
@@ -16,6 +17,9 @@ One line project overview.
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
+## Goals and objectives
+
+Lorem ipsum dolor sit amet, posuere vestibulum tempor lectus sed dictum integer, lobortis ipsum nunc et dui aliquam elementum, justo wisi est ac donec. Porttitor tellus, tincidunt porttitor est aliquet, donec libero suspendisse hendrerit.
 
 ## Rationalize
 
